@@ -84,7 +84,7 @@ Each script can also be run on its own, for example `Rscript code/main_text/Fig5
 
 ## Notes
 
-- **Maps:** the maps in Figs S1a and S5a need plot coordinates, which are not part of this dataset. For Fig. S5a the code gives the plot-level means that the map shows.
+
 - **Stored precision:** numbers are stored in their shortest exact decimal form, with up to 17 significant digits. Some CSV readers round the last binary digit (about 1e-16 relative), which does not change any reported result.
 - **Plot codes and results:** with the anonymized plot codes, the mixed-model estimates can differ from the published values in the 6th or 7th significant digit, because the optimizer runs on a different ordering of plots. All reported values are unchanged.
 - **Raw data sources:** see the Data availability statement of the paper (FIA, MODIS MOD13Q1 NDVI, climate and drought data, USFS ecological provinces).
