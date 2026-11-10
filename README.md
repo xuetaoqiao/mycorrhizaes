@@ -20,8 +20,7 @@ Figure 1 is a conceptual diagram and has no data.
 
 Notes on the dataset:
 
-- **Plot codes:** plot identifiers are random codes (P00001 to P83092). They link the events of the same plot, which the models need for plot random effects and plot-clustered standard errors.
-- **No coordinates:** plot coordinates are not included.
+- **Plot codes:** They link the events of the same plot, which the models need for plot random effects and plot-clustered standard errors.
 - **Processing layer:** the dataset is the layer of processed data from which all results are computed, not the raw inventory, satellite and climate data. Its variables are:
   - drought resistance from MODIS NDVI;
   - tree species richness;
